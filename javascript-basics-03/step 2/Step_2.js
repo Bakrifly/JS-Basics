@@ -1,3 +1,4 @@
+// fixing commet problem
 var Links = document.querySelectorAll("a")
 var text = document.getElementById("texte")
 console.log(Links)
